@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt br">
+
+<head>
+    <title>Exercícios HTML</title>
+</head>
+
+
+
+<body>
+    <a href="https://www.senacrs.com.br/">
+    <img src="https://www.senacrs.com.br/assets/images/senac_logo_new.png"></a>
+        
+    <h1>Meus hobbies favoritos</h1>
+    <div>
+        <h3>Lista Odenada</h3>
+    </div>
+    <ol>
+        <li>Ler</li>
+        <li>Assistir filmes, series e animes</li>
+        <li>Escutar musicas</li>
+    </ol>
+</body>
+
+
+
